@@ -5,6 +5,12 @@
 PRODUCT_SOONG_NAMESPACES += \
     vendor/samsung/a34x
 
+ODM_MANIFEST_FILES += \
+    vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_dsds.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_dsds.xml \
+    vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_qsqs.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_qsqs.xml \
+    vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_ss.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_ss.xml \
+    vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_tsts.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_tsts.xml
+
 PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/etc/audio_effects.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects.conf \
     vendor/samsung/a34x/proprietary/etc/audio_effects.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects.xml \
@@ -43,10 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/lib64/libstagefright_surface_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_surface_utils.so \
     vendor/samsung/a34x/proprietary/lib64/vendor.samsung.hardware.security.hdcp.wifidisplay-V2-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.samsung.hardware.security.hdcp.wifidisplay-V2-ndk.so \
     vendor/samsung/a34x/proprietary/odm/etc/apks_count_list.txt:$(TARGET_COPY_OUT_ODM)/etc/apks_count_list.txt \
-    vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_dsds.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_dsds.xml \
-    vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_qsqs.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_qsqs.xml \
-    vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_ss.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_ss.xml \
-    vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_tsts.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_tsts.xml \
     vendor/samsung/a34x/proprietary/system_ext/bin/hw/android.hardware.audio.parameter_parser.service:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/hw/android.hardware.audio.parameter_parser.service \
     vendor/samsung/a34x/proprietary/system_ext/etc/a2dp_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/a2dp_audio_policy_configuration.xml \
     vendor/samsung/a34x/proprietary/system_ext/etc/a2dp_in_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/a2dp_in_audio_policy_configuration.xml \
