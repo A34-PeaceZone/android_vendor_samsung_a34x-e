@@ -18,7 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/lib/libmpbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmpbase.so \
     vendor/samsung/a34x/proprietary/lib/libomafldrm.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libomafldrm.so \
     vendor/samsung/a34x/proprietary/lib/libstagefright_httplive_sec.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_httplive_sec.so \
-    vendor/samsung/a34x/proprietary/lib64/graphicbuffersource-aidl-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/graphicbuffersource-aidl-ndk.so \
     vendor/samsung/a34x/proprietary/lib64/libarcsoft_photoeditor.arcsoft.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_photoeditor.arcsoft.so \
     vendor/samsung/a34x/proprietary/lib64/libdatasource_local_cache.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libdatasource_local_cache.so \
     vendor/samsung/a34x/proprietary/lib64/libhdcp2.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libhdcp2.so \
