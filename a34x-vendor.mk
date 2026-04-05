@@ -96,7 +96,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/bin/conninfra_loader:$(TARGET_COPY_OUT_VENDOR)/bin/conninfra_loader \
     vendor/samsung/a34x/proprietary/vendor/bin/dconfig:$(TARGET_COPY_OUT_VENDOR)/bin/dconfig \
     vendor/samsung/a34x/proprietary/vendor/bin/dexecutor:$(TARGET_COPY_OUT_VENDOR)/bin/dexecutor \
-    vendor/samsung/a34x/proprietary/vendor/bin/dmabuf_dump:$(TARGET_COPY_OUT_VENDOR)/bin/dmabuf_dump \
     vendor/samsung/a34x/proprietary/vendor/bin/dmc_core:$(TARGET_COPY_OUT_VENDOR)/bin/dmc_core \
     vendor/samsung/a34x/proprietary/vendor/bin/doeapp-memtester:$(TARGET_COPY_OUT_VENDOR)/bin/doeapp-memtester \
     vendor/samsung/a34x/proprietary/vendor/bin/doeapp-sat:$(TARGET_COPY_OUT_VENDOR)/bin/doeapp-sat \
@@ -113,7 +112,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/bin/getfattr:$(TARGET_COPY_OUT_VENDOR)/bin/getfattr \
     vendor/samsung/a34x/proprietary/vendor/bin/getopt:$(TARGET_COPY_OUT_VENDOR)/bin/getopt \
     vendor/samsung/a34x/proprietary/vendor/bin/hcgcd:$(TARGET_COPY_OUT_VENDOR)/bin/hcgcd \
-    vendor/samsung/a34x/proprietary/vendor/bin/hostapd_cli:$(TARGET_COPY_OUT_VENDOR)/bin/hostapd_cli \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.audio.service-aidl.mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.audio.service-aidl.mediatek \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.bluetooth-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.bluetooth-service-mediatek \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.drm-service.clearkey:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm-service.clearkey \
@@ -216,7 +214,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/bin/volte_rcs_ua:$(TARGET_COPY_OUT_VENDOR)/bin/volte_rcs_ua \
     vendor/samsung/a34x/proprietary/vendor/bin/wifi_dump:$(TARGET_COPY_OUT_VENDOR)/bin/wifi_dump \
     vendor/samsung/a34x/proprietary/vendor/bin/wlan_assistant:$(TARGET_COPY_OUT_VENDOR)/bin/wlan_assistant \
-    vendor/samsung/a34x/proprietary/vendor/bin/wpa_cli:$(TARGET_COPY_OUT_VENDOR)/bin/wpa_cli \
     vendor/samsung/a34x/proprietary/vendor/bin/wvkprov:$(TARGET_COPY_OUT_VENDOR)/bin/wvkprov \
     vendor/samsung/a34x/proprietary/vendor/etc/.tp/.ht120.mtc:$(TARGET_COPY_OUT_VENDOR)/etc/.tp/.ht120.mtc \
     vendor/samsung/a34x/proprietary/vendor/etc/.tp/.thermal_policy_08:$(TARGET_COPY_OUT_VENDOR)/etc/.tp/.thermal_policy_08 \
