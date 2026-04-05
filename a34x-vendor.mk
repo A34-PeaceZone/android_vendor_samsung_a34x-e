@@ -17,7 +17,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/lib/libdatasource_local_cache.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libdatasource_local_cache.so \
     vendor/samsung/a34x/proprietary/lib/libmpbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmpbase.so \
     vendor/samsung/a34x/proprietary/lib/libomafldrm.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libomafldrm.so \
-    vendor/samsung/a34x/proprietary/lib/libstagefright_aidl_bufferpool2.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_aidl_bufferpool2.so \
     vendor/samsung/a34x/proprietary/lib/libstagefright_bufferpool@2.0.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_bufferpool@2.0.1.so \
     vendor/samsung/a34x/proprietary/lib/libstagefright_codecbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_codecbase.so \
     vendor/samsung/a34x/proprietary/lib/libstagefright_framecapture_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_framecapture_utils.so \
