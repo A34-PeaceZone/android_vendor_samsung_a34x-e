@@ -84,12 +84,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/bin/aee_aedv64:$(TARGET_COPY_OUT_VENDOR)/bin/aee_aedv64 \
     vendor/samsung/a34x/proprietary/vendor/bin/aee_dumpstatev:$(TARGET_COPY_OUT_VENDOR)/bin/aee_dumpstatev \
     vendor/samsung/a34x/proprietary/vendor/bin/aeev:$(TARGET_COPY_OUT_VENDOR)/bin/aeev \
-    vendor/samsung/a34x/proprietary/vendor/bin/applypatch:$(TARGET_COPY_OUT_VENDOR)/bin/applypatch \
     vendor/samsung/a34x/proprietary/vendor/bin/audiocmdservice_atci:$(TARGET_COPY_OUT_VENDOR)/bin/audiocmdservice_atci \
     vendor/samsung/a34x/proprietary/vendor/bin/autobt:$(TARGET_COPY_OUT_VENDOR)/bin/autobt \
     vendor/samsung/a34x/proprietary/vendor/bin/bip_ap:$(TARGET_COPY_OUT_VENDOR)/bin/bip_ap \
-    vendor/samsung/a34x/proprietary/vendor/bin/boringssl_self_test32:$(TARGET_COPY_OUT_VENDOR)/bin/boringssl_self_test32 \
-    vendor/samsung/a34x/proprietary/vendor/bin/boringssl_self_test64:$(TARGET_COPY_OUT_VENDOR)/bin/boringssl_self_test64 \
     vendor/samsung/a34x/proprietary/vendor/bin/bt_dump:$(TARGET_COPY_OUT_VENDOR)/bin/bt_dump \
     vendor/samsung/a34x/proprietary/vendor/bin/camera_tilt_calibration_info_1_2_default.bin:$(TARGET_COPY_OUT_VENDOR)/bin/camera_tilt_calibration_info_1_2_default.bin \
     vendor/samsung/a34x/proprietary/vendor/bin/cass:$(TARGET_COPY_OUT_VENDOR)/bin/cass \
