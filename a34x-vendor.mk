@@ -18,30 +18,15 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/lib/libdatasource_local_cache.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libdatasource_local_cache.so \
     vendor/samsung/a34x/proprietary/lib/libmpbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmpbase.so \
     vendor/samsung/a34x/proprietary/lib/libomafldrm.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libomafldrm.so \
-    vendor/samsung/a34x/proprietary/lib/libstagefright_aidl_bufferpool2.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_aidl_bufferpool2.so \
-    vendor/samsung/a34x/proprietary/lib/libstagefright_bufferpool@2.0.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_bufferpool@2.0.1.so \
-    vendor/samsung/a34x/proprietary/lib/libstagefright_codecbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_codecbase.so \
-    vendor/samsung/a34x/proprietary/lib/libstagefright_framecapture_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_framecapture_utils.so \
-    vendor/samsung/a34x/proprietary/lib/libstagefright_graphicbuffersource_aidl.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_graphicbuffersource_aidl.so \
     vendor/samsung/a34x/proprietary/lib/libstagefright_httplive_sec.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_httplive_sec.so \
-    vendor/samsung/a34x/proprietary/lib/libstagefright_surface_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_surface_utils.so \
-    vendor/samsung/a34x/proprietary/lib64/graphicbuffersource-aidl-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/graphicbuffersource-aidl-ndk.so \
     vendor/samsung/a34x/proprietary/lib64/libarcsoft_photoeditor.arcsoft.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_photoeditor.arcsoft.so \
-    vendor/samsung/a34x/proprietary/lib64/libdatasource.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libdatasource.so \
     vendor/samsung/a34x/proprietary/lib64/libdatasource_local_cache.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libdatasource_local_cache.so \
     vendor/samsung/a34x/proprietary/lib64/libhdcp2.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libhdcp2.so \
     vendor/samsung/a34x/proprietary/lib64/libhdcp_client_aidl.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libhdcp_client_aidl.so \
-    vendor/samsung/a34x/proprietary/lib64/libmedia_codeclist.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmedia_codeclist.so \
     vendor/samsung/a34x/proprietary/lib64/libmpbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmpbase.so \
     vendor/samsung/a34x/proprietary/lib64/libomafldrm.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libomafldrm.so \
-    vendor/samsung/a34x/proprietary/lib64/libstagefright_aidl_bufferpool2.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_aidl_bufferpool2.so \
-    vendor/samsung/a34x/proprietary/lib64/libstagefright_bufferpool@2.0.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_bufferpool@2.0.1.so \
-    vendor/samsung/a34x/proprietary/lib64/libstagefright_codecbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_codecbase.so \
-    vendor/samsung/a34x/proprietary/lib64/libstagefright_framecapture_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_framecapture_utils.so \
-    vendor/samsung/a34x/proprietary/lib64/libstagefright_graphicbuffersource_aidl.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_graphicbuffersource_aidl.so \
     vendor/samsung/a34x/proprietary/lib64/libstagefright_hdcp.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_hdcp.so \
     vendor/samsung/a34x/proprietary/lib64/libstagefright_httplive_sec.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_httplive_sec.so \
-    vendor/samsung/a34x/proprietary/lib64/libstagefright_surface_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_surface_utils.so \
     vendor/samsung/a34x/proprietary/lib64/vendor.samsung.hardware.security.hdcp.wifidisplay-V2-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.samsung.hardware.security.hdcp.wifidisplay-V2-ndk.so \
     vendor/samsung/a34x/proprietary/odm/etc/apks_count_list.txt:$(TARGET_COPY_OUT_ODM)/etc/apks_count_list.txt \
     vendor/samsung/a34x/proprietary/system_ext/bin/hw/android.hardware.audio.parameter_parser.service:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/hw/android.hardware.audio.parameter_parser.service \
