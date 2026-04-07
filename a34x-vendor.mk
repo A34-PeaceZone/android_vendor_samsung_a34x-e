@@ -401,9 +401,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/etc/beauty/settings.dat:$(TARGET_COPY_OUT_VENDOR)/etc/beauty/settings.dat \
     vendor/samsung/a34x/proprietary/vendor/etc/bluetooth_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/bluetooth_audio_policy_configuration.xml \
     vendor/samsung/a34x/proprietary/vendor/etc/bluetooth_offload_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/bluetooth_offload_audio_policy_configuration.xml \
-    vendor/samsung/a34x/proprietary/vendor/etc/boringssl_self_test.zygote32.rc:$(TARGET_COPY_OUT_VENDOR)/etc/boringssl_self_test.zygote32.rc \
-    vendor/samsung/a34x/proprietary/vendor/etc/boringssl_self_test.zygote64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/boringssl_self_test.zygote64.rc \
-    vendor/samsung/a34x/proprietary/vendor/etc/boringssl_self_test.zygote64_32.rc:$(TARGET_COPY_OUT_VENDOR)/etc/boringssl_self_test.zygote64_32.rc \
     vendor/samsung/a34x/proprietary/vendor/etc/btcon.json:$(TARGET_COPY_OUT_VENDOR)/etc/btcon.json \
     vendor/samsung/a34x/proprietary/vendor/etc/build_flags.json:$(TARGET_COPY_OUT_VENDOR)/etc/build_flags.json \
     vendor/samsung/a34x/proprietary/vendor/etc/command.csv:$(TARGET_COPY_OUT_VENDOR)/etc/command.csv \
