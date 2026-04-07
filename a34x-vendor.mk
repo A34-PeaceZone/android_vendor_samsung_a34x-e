@@ -582,7 +582,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/etc/midas/deflare/srcb_flare_enhancement.tflite:$(TARGET_COPY_OUT_VENDOR)/etc/midas/deflare/srcb_flare_enhancement.tflite \
     vendor/samsung/a34x/proprietary/vendor/etc/midas/deflare/srcb_flare_estimate.tflite:$(TARGET_COPY_OUT_VENDOR)/etc/midas/deflare/srcb_flare_estimate.tflite \
     vendor/samsung/a34x/proprietary/vendor/etc/midas/midas_config.json:$(TARGET_COPY_OUT_VENDOR)/etc/midas/midas_config.json \
-    vendor/samsung/a34x/proprietary/vendor/etc/mkshrc:$(TARGET_COPY_OUT_VENDOR)/etc/mkshrc \
     vendor/samsung/a34x/proprietary/vendor/etc/mtk_platform_codecs_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mtk_platform_codecs_config.xml \
     vendor/samsung/a34x/proprietary/vendor/etc/mtu-conf.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mtu-conf.xml \
     vendor/samsung/a34x/proprietary/vendor/etc/mvno_list.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mvno_list.xml \
