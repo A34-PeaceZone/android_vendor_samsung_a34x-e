@@ -1201,7 +1201,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/libasn1c_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libasn1c_core.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libasn1c_mapi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libasn1c_mapi.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libasn1c_mdmi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libasn1c_mdmi.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/libatomic_rust.dylib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libatomic_rust.dylib.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libaudio-ril.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudio-ril.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libaudio_aidl_conversion_common_ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudio_aidl_conversion_common_ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libaudio_param_parser-vnd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudio_param_parser-vnd.so \
@@ -1959,7 +1958,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libasn1c_core.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libasn1c_core.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libasn1c_mapi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libasn1c_mapi.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libasn1c_mdmi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libasn1c_mdmi.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libatomic_rust.dylib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libatomic_rust.dylib.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libaudio-ril.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudio-ril.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libaudio_aidl_conversion_common_ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudio_aidl_conversion_common_ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libaudio_param_parser-vnd.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudio_param_parser-vnd.so \
