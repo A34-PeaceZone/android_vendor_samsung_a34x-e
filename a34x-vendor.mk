@@ -880,9 +880,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/gc5035_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/gc5035_mipi_raw_tuning.so \
     vendor/samsung/a34x/proprietary/vendor/lib/gnss_aidl_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/gnss_aidl_lib.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hi1339_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/hi1339_mipi_raw_tuning.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/hw/android.hardware.soundtrigger3-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.soundtrigger3-impl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/hw/android.hardware.soundtrigger@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.soundtrigger@2.0-impl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/hw/android.hardware.soundtrigger@2.3-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.soundtrigger@2.3-impl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/audio.bluetooth.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.bluetooth.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/audio.primary.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/audio.primary.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.mt6877.so \
@@ -1586,8 +1583,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/gnss_aidl_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gnss_aidl_lib.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hi1339_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hi1339_mipi_raw_IdxMgr.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hi1339_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hi1339_mipi_raw_tuning.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/hw/android.hardware.soundtrigger3-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.soundtrigger3-impl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/hw/android.hardware.soundtrigger@2.3-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.soundtrigger@2.3-impl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/audio.bluetooth.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.bluetooth.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/audio.primary.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/audio.primary.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.mt6877.so \
