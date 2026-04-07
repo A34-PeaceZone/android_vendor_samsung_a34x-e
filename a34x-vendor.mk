@@ -181,7 +181,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/bin/rt5512_calibration:$(TARGET_COPY_OUT_VENDOR)/bin/rt5512_calibration \
     vendor/samsung/a34x/proprietary/vendor/bin/rttv:$(TARGET_COPY_OUT_VENDOR)/bin/rttv \
     vendor/samsung/a34x/proprietary/vendor/bin/secril_config_svc:$(TARGET_COPY_OUT_VENDOR)/bin/secril_config_svc \
-    vendor/samsung/a34x/proprietary/vendor/bin/setfattr:$(TARGET_COPY_OUT_VENDOR)/bin/setfattr \
     vendor/samsung/a34x/proprietary/vendor/bin/snap_utility_64:$(TARGET_COPY_OUT_VENDOR)/bin/snap_utility_64 \
     vendor/samsung/a34x/proprietary/vendor/bin/snaplite_utility_64:$(TARGET_COPY_OUT_VENDOR)/bin/snaplite_utility_64 \
     vendor/samsung/a34x/proprietary/vendor/bin/test_model.json:$(TARGET_COPY_OUT_VENDOR)/bin/test_model.json \
