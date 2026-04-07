@@ -870,7 +870,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/VP9SecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/VP9SecureVdecCA.so \
     vendor/samsung/a34x/proprietary/vendor/lib/arm.graphics-V5-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/arm.graphics-V5-ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib/arm.mali.platform-V2-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/arm.mali.platform-V2-ndk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/audioclient-types-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/audioclient-types-aidl-cpp.so \
     vendor/samsung/a34x/proprietary/vendor/lib/audiopolicy-types-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/audiopolicy-types-aidl-cpp.so \
     vendor/samsung/a34x/proprietary/vendor/lib/egl/egl.cfg:$(TARGET_COPY_OUT_VENDOR)/lib/egl/egl.cfg \
     vendor/samsung/a34x/proprietary/vendor/lib/egl/libGLES_mali.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libGLES_mali.so \
@@ -1584,7 +1583,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/aidl_libtlc_direct_comm_iccc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/aidl_libtlc_direct_comm_iccc.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/arm.graphics-V5-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/arm.graphics-V5-ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/arm.mali.platform-V2-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/arm.mali.platform-V2-ndk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/audioclient-types-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/audioclient-types-aidl-cpp.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/audiopolicy-types-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/audiopolicy-types-aidl-cpp.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/egl/libGLES_mali.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libGLES_mali.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/egl/libGLES_meow.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libGLES_meow.so \
