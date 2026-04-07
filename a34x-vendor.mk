@@ -400,7 +400,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/etc/aurisys_config_rv.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_config_rv.xml \
     vendor/samsung/a34x/proprietary/vendor/etc/beauty/settings.dat:$(TARGET_COPY_OUT_VENDOR)/etc/beauty/settings.dat \
     vendor/samsung/a34x/proprietary/vendor/etc/bluetooth_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/bluetooth_audio_policy_configuration.xml \
-    vendor/samsung/a34x/proprietary/vendor/etc/bluetooth_offload_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/bluetooth_offload_audio_policy_configuration.xml \ \
+    vendor/samsung/a34x/proprietary/vendor/etc/bluetooth_offload_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/bluetooth_offload_audio_policy_configuration.xml \
     vendor/samsung/a34x/proprietary/vendor/etc/boringssl_self_test.zygote32.rc:$(TARGET_COPY_OUT_VENDOR)/etc/boringssl_self_test.zygote32.rc \
     vendor/samsung/a34x/proprietary/vendor/etc/boringssl_self_test.zygote64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/boringssl_self_test.zygote64.rc \
     vendor/samsung/a34x/proprietary/vendor/etc/boringssl_self_test.zygote64_32.rc:$(TARGET_COPY_OUT_VENDOR)/etc/boringssl_self_test.zygote64_32.rc \
