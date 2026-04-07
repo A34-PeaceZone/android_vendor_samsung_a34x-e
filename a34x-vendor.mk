@@ -187,7 +187,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/bin/thermal:$(TARGET_COPY_OUT_VENDOR)/bin/thermal \
     vendor/samsung/a34x/proprietary/vendor/bin/thermal_manager:$(TARGET_COPY_OUT_VENDOR)/bin/thermal_manager \
     vendor/samsung/a34x/proprietary/vendor/bin/thermalloadalgod:$(TARGET_COPY_OUT_VENDOR)/bin/thermalloadalgod \
-    vendor/samsung/a34x/proprietary/vendor/bin/trusty-ut-ctrl:$(TARGET_COPY_OUT_VENDOR)/bin/trusty-ut-ctrl \
     vendor/samsung/a34x/proprietary/vendor/bin/tzdaemon:$(TARGET_COPY_OUT_VENDOR)/bin/tzdaemon \
     vendor/samsung/a34x/proprietary/vendor/bin/tzts_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/tzts_daemon \
     vendor/samsung/a34x/proprietary/vendor/bin/utility_cache_test.tflite:$(TARGET_COPY_OUT_VENDOR)/bin/utility_cache_test.tflite \
