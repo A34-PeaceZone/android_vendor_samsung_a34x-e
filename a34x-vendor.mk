@@ -460,7 +460,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/etc/init/cass.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/cass.rc \
     vendor/samsung/a34x/proprietary/vendor/etc/init/chipinfo_init.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/chipinfo_init.rc \
     vendor/samsung/a34x/proprietary/vendor/etc/init/dmc_core.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/dmc_core.rc \
-    vendor/samsung/a34x/proprietary/vendor/etc/init/dumpstate-default.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/dumpstate-default.rc \
     vendor/samsung/a34x/proprietary/vendor/etc/init/eara-io-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/eara-io-service.rc \
     vendor/samsung/a34x/proprietary/vendor/etc/init/emservice.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/emservice.rc \
     vendor/samsung/a34x/proprietary/vendor/etc/init/face-default-sec.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/face-default-sec.rc \
