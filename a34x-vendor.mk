@@ -882,7 +882,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/hi1339_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/hi1339_mipi_raw_tuning.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/audio.primary.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.mt6877.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/audio.r_submix.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.r_submix.mt6877.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/hw/audio_policy.stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio_policy.stub.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/gatekeeper.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.mt6877.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/lights.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/lights.mt6877.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/mapper.mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/mapper.mediatek.so \
@@ -1576,7 +1575,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/hi1339_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hi1339_mipi_raw_tuning.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/audio.primary.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.mt6877.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/audio.r_submix.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.r_submix.mt6877.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/hw/audio_policy.stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio_policy.stub.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/camera.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.mt6877.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/camera.unihal.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.unihal.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/gatekeeper.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.mt6877.so \
