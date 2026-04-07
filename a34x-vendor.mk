@@ -1228,7 +1228,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/libbt-vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbt-vendor.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libbwc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbwc.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libcam.halsensor.hwintegration_mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcam.halsensor.hwintegration_mt6877.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/libcamera2ndk_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamera2ndk_vendor.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libccci_util.so:$(TARGET_COPY_OUT_VENDOR)/lib/libccci_util.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libcfg_if.dylib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcfg_if.dylib.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libcmdl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcmdl.so \
@@ -2040,7 +2039,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libcamera.customaf.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamera.customaf.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libcamera.customawb.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamera.customawb.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libcamera.customflk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamera.customflk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libcamera2ndk_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamera2ndk_vendor.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libcameracustom.camera.3a.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcameracustom.camera.3a.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libcameracustom.camera.isp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcameracustom.camera.isp.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libcameracustom.camera.sensors.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcameracustom.camera.sensors.so \
