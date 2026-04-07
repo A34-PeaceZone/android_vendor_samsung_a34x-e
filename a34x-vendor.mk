@@ -108,7 +108,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/bin/fuelgauged:$(TARGET_COPY_OUT_VENDOR)/bin/fuelgauged \
     vendor/samsung/a34x/proprietary/vendor/bin/fuelgauged_nvram:$(TARGET_COPY_OUT_VENDOR)/bin/fuelgauged_nvram \
     vendor/samsung/a34x/proprietary/vendor/bin/gbe:$(TARGET_COPY_OUT_VENDOR)/bin/gbe \
-    vendor/samsung/a34x/proprietary/vendor/bin/getfattr:$(TARGET_COPY_OUT_VENDOR)/bin/getfattr \
     vendor/samsung/a34x/proprietary/vendor/bin/getopt:$(TARGET_COPY_OUT_VENDOR)/bin/getopt \
     vendor/samsung/a34x/proprietary/vendor/bin/hcgcd:$(TARGET_COPY_OUT_VENDOR)/bin/hcgcd \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.audio.service-aidl.mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.audio.service-aidl.mediatek \
