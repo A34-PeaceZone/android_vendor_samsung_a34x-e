@@ -880,20 +880,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/gc5035_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/gc5035_mipi_raw_tuning.so \
     vendor/samsung/a34x/proprietary/vendor/lib/gnss_aidl_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/gnss_aidl_lib.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hi1339_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/hi1339_mipi_raw_tuning.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/hw/audio.bluetooth.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.bluetooth.default.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/hw/audio.primary.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/audio.primary.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.mt6877.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/hw/audio.r_submix.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.r_submix.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/audio.r_submix.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.r_submix.mt6877.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/hw/audio.usb.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.usb.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/audio_policy.stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio_policy.stub.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/gatekeeper.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.mt6877.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/hw/gralloc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/lights.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/lights.mt6877.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/hw/local_time.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/local_time.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/mapper.mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/mapper.mediatek.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/hw/power.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/power.default.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/hw/sound_trigger.primary.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sound_trigger.primary.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/thermal_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/thermal_hal.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/vendor.mediatek.hardware.audio-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.audio-impl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/vendor.mediatek.hardware.bluetooth.audio@2.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.bluetooth.audio@2.1-impl.so \
@@ -901,7 +893,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/vendor.mediatek.hardware.mtkpower-aidl-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.mtkpower-aidl-impl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/vendor.mediatek.hardware.nvram-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.nvram-impl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/vendor.mediatek.hardware.pq_aidl-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.pq_aidl-impl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/hw/vibrator.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vibrator.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib/hw/vulkan.mali.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vulkan.mali.so \
     vendor/samsung/a34x/proprietary/vendor/lib/imx258_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/imx258_mipi_raw_tuning.so \
     vendor/samsung/a34x/proprietary/vendor/lib/imx582_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/imx582_mipi_raw_tuning.so \
@@ -1583,25 +1574,16 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/gnss_aidl_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gnss_aidl_lib.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hi1339_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hi1339_mipi_raw_IdxMgr.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hi1339_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hi1339_mipi_raw_tuning.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/hw/audio.bluetooth.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.bluetooth.default.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/hw/audio.primary.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/audio.primary.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.mt6877.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/hw/audio.r_submix.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.r_submix.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/audio.r_submix.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.r_submix.mt6877.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/hw/audio.usb.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.usb.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/audio_policy.stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio_policy.stub.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/camera.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.mt6877.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/camera.unihal.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.unihal.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/gatekeeper.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.mt6877.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/hw/gps.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gps.default.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/hw/gralloc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gralloc.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/hwcomposer.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/hwcomposer.mt6877.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/libsecaudiohal_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/libsecaudiohal_aidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/lights.mt6877.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/lights.mt6877.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/hw/local_time.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/local_time.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/mapper.mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/mapper.mediatek.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/hw/power.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/power.default.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/hw/sound_trigger.primary.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sound_trigger.primary.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/thermal_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/thermal_hal.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.audio-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.audio-impl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.bluetooth.audio@2.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.bluetooth.audio@2.1-impl.so \
@@ -1611,7 +1593,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.mtkpower-aidl-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.mtkpower-aidl-impl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.nvram-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.nvram-impl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.pq_aidl-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.pq_aidl-impl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/hw/vibrator.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vibrator.default.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/hw/vulkan.mali.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vulkan.mali.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/imx258_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/imx258_mipi_raw_IdxMgr.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/imx258_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/imx258_mipi_raw_tuning.so \
