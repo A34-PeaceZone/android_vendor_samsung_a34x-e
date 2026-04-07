@@ -112,7 +112,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.audio.service-aidl.mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.audio.service-aidl.mediatek \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.bluetooth-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.bluetooth-service-mediatek \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.dumpstate-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.dumpstate-service \
-    vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.gatekeeper@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.gatekeeper@1.0-service \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.graphics.allocator-V2-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.graphics.allocator-V2-service-mediatek \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.graphics.composer@3.3-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.graphics.composer@3.3-service \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.lights-service.samsung:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.lights-service.samsung \
