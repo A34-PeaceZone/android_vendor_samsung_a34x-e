@@ -1231,7 +1231,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/libccci_util.so:$(TARGET_COPY_OUT_VENDOR)/lib/libccci_util.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libcmdl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcmdl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libcmdl_ndk.mtk.vndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcmdl_ndk.mtk.vndk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/libcodec2_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_aidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libcodec2_fsr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_fsr.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libcodec2_hal_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_hal_common.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libcodec2_hidl@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_hidl@1.1.so \
@@ -2049,7 +2048,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libccci_util.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libccci_util.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libcmdl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcmdl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libcmdl_ndk.mtk.vndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcmdl_ndk.mtk.vndk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libcodec2_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_aidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libcodec2_fsr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_fsr.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libcodec2_hal_common.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_hal_common.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libcodec2_hidl@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_hidl@1.1.so \
