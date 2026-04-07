@@ -125,7 +125,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/hostapd:$(TARGET_COPY_OUT_VENDOR)/bin/hw/hostapd \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/macloader:$(TARGET_COPY_OUT_VENDOR)/bin/hw/macloader \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/mfgloader:$(TARGET_COPY_OUT_VENDOR)/bin/hw/mfgloader \
-    vendor/samsung/a34x/proprietary/vendor/bin/hw/rild:$(TARGET_COPY_OUT_VENDOR)/bin/hw/rild \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/samsung.software.media.c2@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/samsung.software.media.c2@1.0-service \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/sec.android.hardware.nfc-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/sec.android.hardware.nfc-service \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/secaudiohalaidl:$(TARGET_COPY_OUT_VENDOR)/bin/hw/secaudiohalaidl \
