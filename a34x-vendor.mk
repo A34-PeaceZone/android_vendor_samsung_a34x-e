@@ -224,7 +224,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/etc/aee-config:$(TARGET_COPY_OUT_VENDOR)/etc/aee-config \
     vendor/samsung/a34x/proprietary/vendor/etc/agingconfig.txt:$(TARGET_COPY_OUT_VENDOR)/etc/agingconfig.txt \
     vendor/samsung/a34x/proprietary/vendor/etc/aidl/le_audio/aidl_audio_set_configurations.json:$(TARGET_COPY_OUT_VENDOR)/etc/aidl/le_audio/aidl_audio_set_configurations.json \
-    vendor/samsung/a34x/proprietary/vendor/etc/aidl/le_audio/aidl_audio_set_scenarios.bfbs:$(TARGET_COPY_OUT_VENDOR)/etc/aidl/le_audio/aidl_audio_set_scenarios.bfbs \
     vendor/samsung/a34x/proprietary/vendor/etc/aidl/le_audio/aidl_audio_set_scenarios.json:$(TARGET_COPY_OUT_VENDOR)/etc/aidl/le_audio/aidl_audio_set_scenarios.json \
     vendor/samsung/a34x/proprietary/vendor/etc/apdb/APDB_MT6853_S01__W2506:$(TARGET_COPY_OUT_VENDOR)/etc/apdb/APDB_MT6853_S01__W2506 \
     vendor/samsung/a34x/proprietary/vendor/etc/apdb/APDB_MT6853_S01__W2506_ENUM:$(TARGET_COPY_OUT_VENDOR)/etc/apdb/APDB_MT6853_S01__W2506_ENUM \
