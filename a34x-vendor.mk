@@ -1188,7 +1188,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/libaalservice.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaalservice.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libaedv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaedv.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libaiselector.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaiselector.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/libalsautilsv2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libalsautilsv2.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libapmonitor_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libapmonitor_vendor.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libappgamepq.so:$(TARGET_COPY_OUT_VENDOR)/lib/libappgamepq.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libapu_mdw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libapu_mdw.so \
@@ -1945,7 +1944,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libaimemc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaimemc.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libainrcore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libainrcore.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libaiselector.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaiselector.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libalsautilsv2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libalsautilsv2.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libapiwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libapiwrapper.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libapmonitor_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libapmonitor_vendor.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libappgamepq.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libappgamepq.so \
