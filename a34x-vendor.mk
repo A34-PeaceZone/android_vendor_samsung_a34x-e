@@ -402,7 +402,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/etc/bluetooth_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/bluetooth_audio_policy_configuration.xml \
     vendor/samsung/a34x/proprietary/vendor/etc/bluetooth_offload_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/bluetooth_offload_audio_policy_configuration.xml \
     vendor/samsung/a34x/proprietary/vendor/etc/btcon.json:$(TARGET_COPY_OUT_VENDOR)/etc/btcon.json \
-    vendor/samsung/a34x/proprietary/vendor/etc/build_flags.json:$(TARGET_COPY_OUT_VENDOR)/etc/build_flags.json \
     vendor/samsung/a34x/proprietary/vendor/etc/command.csv:$(TARGET_COPY_OUT_VENDOR)/etc/command.csv \
     vendor/samsung/a34x/proprietary/vendor/etc/cust_color.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cust_color.xml \
     vendor/samsung/a34x/proprietary/vendor/etc/dax3_media_codecs_dolby_audio.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dax3_media_codecs_dolby_audio.xml \
