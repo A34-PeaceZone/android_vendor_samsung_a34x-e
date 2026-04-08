@@ -1434,11 +1434,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/sensors.grip.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.grip.so \
     vendor/samsung/a34x/proprietary/vendor/lib/sensors.inputvirtual.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.inputvirtual.so \
     vendor/samsung/a34x/proprietary/vendor/lib/sensors.sensorhub.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.sensorhub.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaecsw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaecsw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaecsw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaecsw_mtk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libagc1sw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libagc1sw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libagc1sw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libagc1sw_mtk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libagc2sw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libagc2sw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libagc2sw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libagc2sw_mtk.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudiosaplus_sec.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiosaplus_sec.so \
@@ -1456,9 +1453,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libloudnessenhanceraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libloudnessenhanceraidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libmyspace.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmyspace.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libmyspace_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmyspace_aidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libnssw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libnssw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libnssw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libnssw_mtk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libpreprocessingaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libpreprocessingaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libpreprocessingaidl_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libpreprocessingaidl_mtk.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libpresetreverbsw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libpresetreverbsw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libreverbaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libreverbaidl.so \
@@ -2415,11 +2410,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/sensors.inputvirtual.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.inputvirtual.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/sensors.sensorhub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.sensorhub.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/service-listener-ext-aidl-V1-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/service-listener-ext-aidl-V1-ndk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaecsw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaecsw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaecsw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaecsw_mtk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libagc1sw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libagc1sw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libagc1sw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libagc1sw_mtk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libagc2sw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libagc2sw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libagc2sw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libagc2sw_mtk.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudiosaplus_sec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiosaplus_sec.so \
@@ -2437,9 +2429,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libloudnessenhanceraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libloudnessenhanceraidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libmyspace.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libmyspace.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libmyspace_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libmyspace_aidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libnssw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libnssw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libnssw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libnssw_mtk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libpreprocessingaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libpreprocessingaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libpreprocessingaidl_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libpreprocessingaidl_mtk.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libpresetreverbsw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libpresetreverbsw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libreverbaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libreverbaidl.so \
