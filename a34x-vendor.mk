@@ -1440,7 +1440,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudiosaplus_sec.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiosaplus_sec.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudiosaplus_sec_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiosaplus_sec_aidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libdynproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdynproc.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libenvreverbsw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libenvreverbsw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libequalizersw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libequalizersw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libextensioneffect.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libextensioneffect.so \
@@ -2412,7 +2411,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudiosaplus_sec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiosaplus_sec.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudiosaplus_sec_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiosaplus_sec_aidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libdynproc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libdynproc.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libenvreverbsw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libenvreverbsw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libequalizersw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libequalizersw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libextensioneffect.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libextensioneffect.so \
