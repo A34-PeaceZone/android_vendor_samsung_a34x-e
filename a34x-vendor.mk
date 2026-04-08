@@ -1440,7 +1440,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudiosaplus_sec.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiosaplus_sec.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudiosaplus_sec_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiosaplus_sec_aidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libbassboostsw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libbassboostsw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libbundleaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libbundleaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libdownmixaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdownmixaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libdynamicsprocessingaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdynamicsprocessingaidl.so \
@@ -2416,7 +2415,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudiosaplus_sec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiosaplus_sec.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudiosaplus_sec_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiosaplus_sec_aidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libbassboostsw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libbassboostsw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libbundleaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libbundleaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libdownmixaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libdownmixaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libdynamicsprocessingaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libdynamicsprocessingaidl.so \
