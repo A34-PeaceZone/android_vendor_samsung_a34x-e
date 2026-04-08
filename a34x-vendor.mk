@@ -1286,7 +1286,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/libipsec_ims_shr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libipsec_ims_shr.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libispcameraca.so:$(TARGET_COPY_OUT_VENDOR)/lib/libispcameraca.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libladder.so:$TARGET_COPY_OUT_VENDOR)/lib/libladder.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/liblibc.dylib.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblibc.dylib.so \
     vendor/samsung/a34x/proprietary/vendor/lib/liblivefocus_capture_engine.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblivefocus_capture_engine.so \
     vendor/samsung/a34x/proprietary/vendor/lib/liblivefocus_preview_engine.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblivefocus_preview_engine.so \
     vendor/samsung/a34x/proprietary/vendor/lib/liblvsa.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblvsa.so \
@@ -2152,7 +2151,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libkeymaster4_1support.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymaster4_1support.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libkeystore-engine-wifi-hidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeystore-engine-wifi-hidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libladder.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libladder.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/liblibc.dylib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblibc.dylib.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/liblivefocus_capture_engine.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblivefocus_capture_engine.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/liblivefocus_preview.uniplugin@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblivefocus_preview.uniplugin@1.0.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/liblivefocus_preview_engine.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblivefocus_preview_engine.so \
