@@ -1364,7 +1364,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/libsemnativecarrierfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsemnativecarrierfeature.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsfp_sensor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsfp_sensor.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsfp_teegw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsfp_teegw.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/libsfplugin_ccodec_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsfplugin_ccodec_utils.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libshotsuggestion.so:$(TARGET_COPY_OUT_VENDOR)/lib/libshotsuggestion.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libshotsuggestion_engines.so:$(TARGET_COPY_OUT_VENDOR)/lib/libshotsuggestion_engines.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsimba.media.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsimba.media.samsung.so \
@@ -2321,7 +2320,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsemnativecarrierfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsemnativecarrierfeature.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsfp_sensor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsfp_sensor.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsfp_teegw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsfp_teegw.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libsfplugin_ccodec_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsfplugin_ccodec_utils.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libshotsuggestion.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libshotsuggestion.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libshotsuggestion_engines.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libshotsuggestion_engines.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsilkybrightnesscore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsilkybrightnesscore.so \
