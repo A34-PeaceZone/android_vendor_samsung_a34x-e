@@ -1362,7 +1362,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/libsecril-client.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsecril-client.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsehbluetooth_audio_session_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsehbluetooth_audio_session_aidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsemnativecarrierfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsemnativecarrierfeature.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/libserde.dylib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libserde.dylib.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsfp_sensor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsfp_sensor.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsfp_teegw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsfp_teegw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsfplugin_ccodec_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsfplugin_ccodec_utils.so \
@@ -1380,7 +1379,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/libstagefright_aidl_bufferpool2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstagefright_aidl_bufferpool2.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libstagefright_bufferpool@2.0.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstagefright_bufferpool@2.0.1.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libstagefright_foundation_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstagefright_foundation_vendor.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/libstd.dylib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstd.dylib.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libswtcc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libswtcc.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsynaFpSensorTestNwd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsynaFpSensorTestNwd.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsysenv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsysenv.so \
@@ -1394,7 +1392,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/libtranslator_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtranslator_utils.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libudf.so:$(TARGET_COPY_OUT_VENDOR)/lib/libudf.so \
     vendor/samsung/a34x/proprietary/vendor/lib/liburee_meta_drmkeyinstall.so:$(TARGET_COPY_OUT_VENDOR)/lib/liburee_meta_drmkeyinstall.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/libuuid.dylib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libuuid.dylib.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libuuid.so:$(TARGET_COPY_OUT_VENDOR)/lib/libuuid.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libvcodec_oal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvcodec_oal.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libvcodec_utility_v3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvcodec_utility_v3a.so \
@@ -2322,7 +2319,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsegmentationeffect_capture.uniplugin@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsegmentationeffect_capture.uniplugin@1.0.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsehbluetooth_audio_session_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsehbluetooth_audio_session_aidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsemnativecarrierfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsemnativecarrierfeature.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libserde.dylib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libserde.dylib.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsfp_sensor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsfp_sensor.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsfp_teegw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsfp_teegw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsfplugin_ccodec_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsfplugin_ccodec_utils.so \
@@ -2352,7 +2348,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libstagefright_aidl_bufferpool2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstagefright_aidl_bufferpool2.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libstagefright_bufferpool@2.0.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstagefright_bufferpool@2.0.1.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libstagefright_foundation_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstagefright_foundation_vendor.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libstd.dylib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstd.dylib.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libstereoinfoaccessor_vsdof.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstereoinfoaccessor_vsdof.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libstorage_otp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstorage_otp.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libstork_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstork_shared.so \
@@ -2373,7 +2368,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libtvm_wrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtvm_wrapper.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libudf.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libudf.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/liburee_meta_drmkeyinstall.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liburee_meta_drmkeyinstall.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libuuid.dylib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libuuid.dylib.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libuuid.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libuuid.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libvcodec_oal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvcodec_oal.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libvcodec_utility_v3a.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvcodec_utility_v3a.so \
