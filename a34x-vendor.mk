@@ -1440,7 +1440,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudiosaplus_sec.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiosaplus_sec.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudiosaplus_sec_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiosaplus_sec_aidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libloudnessenhanceraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libloudnessenhanceraidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libmyspace_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmyspace_aidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libnssw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libnssw_mtk.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libpreprocessingaidl_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libpreprocessingaidl_mtk.so \
@@ -2400,7 +2399,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudiosaplus_sec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiosaplus_sec.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudiosaplus_sec_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiosaplus_sec_aidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libloudnessenhanceraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libloudnessenhanceraidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libmyspace_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libmyspace_aidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libnssw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libnssw_mtk.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libpreprocessingaidl_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libpreprocessingaidl_mtk.so \
