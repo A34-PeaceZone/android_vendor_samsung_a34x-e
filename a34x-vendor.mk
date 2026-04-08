@@ -1440,7 +1440,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudiosaplus_sec.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiosaplus_sec.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudiosaplus_sec_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiosaplus_sec_aidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libextensioneffect.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libextensioneffect.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libhapticgenerator.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libhapticgenerator.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libhapticgeneratoraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libhapticgeneratoraidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libloudnessenhanceraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libloudnessenhanceraidl.so \
@@ -2406,7 +2405,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudiosaplus_sec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiosaplus_sec.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudiosaplus_sec_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiosaplus_sec_aidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libextensioneffect.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libextensioneffect.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libhapticgenerator.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libhapticgenerator.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libhapticgeneratoraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libhapticgeneratoraidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libloudnessenhanceraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libloudnessenhanceraidl.so \
