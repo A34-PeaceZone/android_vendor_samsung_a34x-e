@@ -1434,7 +1434,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/sensors.grip.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.grip.so \
     vendor/samsung/a34x/proprietary/vendor/lib/sensors.inputvirtual.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.inputvirtual.so \
     vendor/samsung/a34x/proprietary/vendor/lib/sensors.sensorhub.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.sensorhub.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/server_configurable_flags.so:$(TARGET_COPY_OUT_VENDOR)/lib/server_configurable_flags.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaecsw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaecsw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaecsw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaecsw_mtk.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libagc1sw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libagc1sw.so \
@@ -2415,7 +2414,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/sensors.grip.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.grip.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/sensors.inputvirtual.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.inputvirtual.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/sensors.sensorhub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.sensorhub.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/server_configurable_flags.so:$(TARGET_COPY_OUT_VENDOR)/lib64/server_configurable_flags.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/service-listener-ext-aidl-V1-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/service-listener-ext-aidl-V1-ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaecsw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaecsw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaecsw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaecsw_mtk.so \
