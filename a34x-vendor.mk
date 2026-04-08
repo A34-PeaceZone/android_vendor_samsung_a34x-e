@@ -2088,7 +2088,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libicd_decoder.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libicd_decoder.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libifcutils_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libifcutils_mtk.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libimage_enhancement.arcsoft.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libimage_enhancement.arcsoft.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libimage_io.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libimage_io.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libimagebuffer_wrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libimagebuffer_wrapper.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libimagecodec_native.quram.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libimagecodec_native.quram.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libimageio_plat_drv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libimageio_plat_drv.so \
