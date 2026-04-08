@@ -1290,7 +1290,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/liblivefocus_preview_engine.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblivefocus_preview_engine.so \
     vendor/samsung/a34x/proprietary/vendor/lib/liblvsa.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblvsa.so \
     vendor/samsung/a34x/proprietary/vendor/lib/liblvve.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblvve.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/libmediautils_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmediautils_vendor.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libminiui.so:$(TARGET_COPY_OUT_VENDOR)/lib/libminiui.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libmml.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmml.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libmmprofile.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmprofile.so \
@@ -2158,7 +2157,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/liblvsa.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblvsa.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/liblvve.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblvve.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libmdla_ut.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmdla_ut.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libmediautils_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmediautils_vendor.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libmeminfo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmeminfo.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libmfllcore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmfllcore.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libminiui.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libminiui.so \
