@@ -1440,7 +1440,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudiosaplus_sec.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiosaplus_sec.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libaudiosaplus_sec_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiosaplus_sec_aidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libequalizersw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libequalizersw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libextensioneffect.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libextensioneffect.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libhapticgenerator.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libhapticgenerator.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libhapticgeneratoraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libhapticgeneratoraidl.so \
@@ -1449,16 +1448,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libmyspace_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmyspace_aidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libnssw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libnssw_mtk.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libpreprocessingaidl_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libpreprocessingaidl_mtk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libpresetreverbsw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libpresetreverbsw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libreverbaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libreverbaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libsamsungSoundbooster_plus.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libsamsungSoundbooster_plus.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libswdap.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswdap.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libswdapaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswdapaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libswspatializer.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswspatializer.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libswspatializeraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswspatializeraidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libvirtualizersw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libvirtualizersw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libvisualizeraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libvisualizeraidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libvolumesw.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libvolumesw.so \
     vendor/samsung/a34x/proprietary/vendor/lib/spatializer-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/spatializer-aidl-cpp.so \
     vendor/samsung/a34x/proprietary/vendor/lib/sr846d_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/sr846d_mipi_raw_tuning.so \
     vendor/samsung/a34x/proprietary/vendor/lib/vendor.mediatek.framework.mtksf_ext-V2-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.framework.mtksf_ext-V2-ndk.so \
@@ -2410,7 +2406,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudioeffectoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudiosaplus_sec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiosaplus_sec.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libaudiosaplus_sec_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiosaplus_sec_aidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libequalizersw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libequalizersw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libextensioneffect.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libextensioneffect.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libhapticgenerator.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libhapticgenerator.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libhapticgeneratoraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libhapticgeneratoraidl.so \
@@ -2419,16 +2414,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libmyspace_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libmyspace_aidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libnssw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libnssw_mtk.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libpreprocessingaidl_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libpreprocessingaidl_mtk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libpresetreverbsw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libpresetreverbsw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libreverbaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libreverbaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libsamsungSoundbooster_plus.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libsamsungSoundbooster_plus.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libswdap.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswdap.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libswdapaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswdapaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libswspatializer.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswspatializer.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libswspatializeraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswspatializeraidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libvirtualizersw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libvirtualizersw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libvisualizeraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libvisualizeraidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libvolumesw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libvolumesw.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/spatializer-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/spatializer-aidl-cpp.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/sr846d_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sr846d_mipi_raw_IdxMgr.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/sr846d_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sr846d_mipi_raw_tuning.so \
