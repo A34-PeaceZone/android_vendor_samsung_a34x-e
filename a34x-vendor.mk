@@ -1443,7 +1443,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libmyspace_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmyspace_aidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libnssw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libnssw_mtk.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libpreprocessingaidl_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libpreprocessingaidl_mtk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libreverbaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libreverbaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libsamsungSoundbooster_plus.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libsamsungSoundbooster_plus.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libswdapaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswdapaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libswspatializeraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswspatializeraidl.so \
@@ -2402,7 +2401,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libmyspace_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libmyspace_aidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libnssw_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libnssw_mtk.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libpreprocessingaidl_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libpreprocessingaidl_mtk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libreverbaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libreverbaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libsamsungSoundbooster_plus.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libsamsungSoundbooster_plus.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libswdapaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswdapaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libswspatializeraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswspatializeraidl.so \
