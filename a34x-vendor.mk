@@ -2350,7 +2350,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libvpu.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpu.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libvpu5.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpu5.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libwapi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwapi.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libwifi-hal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwifi-hal.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libwifinvramdata.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwifinvramdata.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libwpfa.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwpfa.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libwsmd_functions.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwsmd_functions.so \
