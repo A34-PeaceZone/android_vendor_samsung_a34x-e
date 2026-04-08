@@ -1419,7 +1419,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/libwapi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwapi.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libwifinvramdata.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwifinvramdata.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libwsmd_functions.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwsmd_functions.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/mediacas/libclearkeycasplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/mediacas/libclearkeycasplugin.so \
     vendor/samsung/a34x/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/samsung/a34x/proprietary/vendor/lib/mediadrm/libmockdrmcryptoplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/mediadrm/libmockdrmcryptoplugin.so \
     vendor/samsung/a34x/proprietary/vendor/lib/mt6877/libaiselector.so:$(TARGET_COPY_OUT_VENDOR)/lib/mt6877/libaiselector.so \
@@ -2395,7 +2394,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libwsmd_functions.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwsmd_functions.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libz_stable.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libz_stable.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libzoomroi.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libzoomroi.samsung.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/mediacas/libclearkeycasplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mediacas/libclearkeycasplugin.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/mediadrm/libdrmclearkeyplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mediadrm/libdrmclearkeyplugin.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mediadrm/libmockdrmcryptoplugin.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/mt6877/libaiselector.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mt6877/libaiselector.so \
