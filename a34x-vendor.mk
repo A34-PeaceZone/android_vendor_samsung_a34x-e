@@ -2299,7 +2299,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/librgbwlightsensor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librgbwlightsensor.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libril_sem.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libril_sem.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/librt_extamp_intf.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librt_extamp_intf.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libruy.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libruy.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsamsungcamerahal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsamsungcamerahal.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsamsungcamerahalutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsamsungcamerahalutils.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsamsungcamerahwl_impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsamsungcamerahwl_impl.so \
