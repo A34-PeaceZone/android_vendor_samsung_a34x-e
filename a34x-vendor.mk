@@ -1362,7 +1362,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/libsecril-client.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsecril-client.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsehbluetooth_audio_session_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsehbluetooth_audio_session_aidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsemnativecarrierfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsemnativecarrierfeature.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/libsensorndkbridge.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensorndkbridge.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libserde.dylib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libserde.dylib.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsfp_sensor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsfp_sensor.so \
     vendor/samsung/a34x/proprietary/vendor/lib/libsfp_teegw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsfp_teegw.so \
@@ -2323,7 +2322,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsegmentationeffect_capture.uniplugin@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsegmentationeffect_capture.uniplugin@1.0.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsehbluetooth_audio_session_aidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsehbluetooth_audio_session_aidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsemnativecarrierfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsemnativecarrierfeature.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libsensorndkbridge.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorndkbridge.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libserde.dylib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libserde.dylib.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsfp_sensor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsfp_sensor.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libsfp_teegw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsfp_teegw.so \
