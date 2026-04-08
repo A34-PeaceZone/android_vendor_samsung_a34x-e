@@ -2109,7 +2109,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/liblvsa.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblvsa.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/liblvve.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblvve.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libmdla_ut.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmdla_ut.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libmeminfo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmeminfo.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libmfllcore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmfllcore.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libminiui.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libminiui.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libmipc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmipc.so \
