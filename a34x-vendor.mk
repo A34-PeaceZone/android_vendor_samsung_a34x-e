@@ -1446,7 +1446,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libsamsungSoundbooster_plus.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libsamsungSoundbooster_plus.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libswdapaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswdapaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib/soundfx/libswspatializeraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswspatializeraidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/spatializer-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/spatializer-aidl-cpp.so \
     vendor/samsung/a34x/proprietary/vendor/lib/sr846d_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/sr846d_mipi_raw_tuning.so \
     vendor/samsung/a34x/proprietary/vendor/lib/vendor.mediatek.framework.mtksf_ext-V2-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.framework.mtksf_ext-V2-ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib/vendor.mediatek.hardware.apmonitor-V1-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.apmonitor-V1-ndk.so \
@@ -2403,7 +2402,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libsamsungSoundbooster_plus.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libsamsungSoundbooster_plus.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libswdapaidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswdapaidl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/soundfx/libswspatializeraidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswspatializeraidl.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/spatializer-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/spatializer-aidl-cpp.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/sr846d_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sr846d_mipi_raw_IdxMgr.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/sr846d_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sr846d_mipi_raw_tuning.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/unihal_android.so:$(TARGET_COPY_OUT_VENDOR)/lib64/unihal_android.so \
