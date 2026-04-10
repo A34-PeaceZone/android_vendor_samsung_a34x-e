@@ -1,5 +1,4 @@
-service vendor.mediatek.hardware.mms-default /vendor/bin/hw/vendor.mediatek.hardware.mms-service
-    interface aidl vendor.mediatek.hardware.mms.IMms/default
+service vendor.mediatek.hardware.mms-default /vendor/bin/hw/vendor.mediatek.hardware.mms-service
     class main
     user system
     oneshot
