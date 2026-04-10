@@ -5,7 +5,7 @@
 PRODUCT_SOONG_NAMESPACES += \
     vendor/samsung/a34x
 
-ODM_MANIFEST_FILES += \
+ODM_MANIFEST_FILES := \
     vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_dsds.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_dsds.xml \
     vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_qsqs.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_qsqs.xml \
     vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_ss.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_ss.xml \
