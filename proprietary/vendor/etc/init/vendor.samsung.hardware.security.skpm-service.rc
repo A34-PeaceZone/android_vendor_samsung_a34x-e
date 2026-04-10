@@ -1,5 +1,4 @@
 service skpm_aidl /vendor/bin/hw/vendor.samsung.hardware.security.skpm-service
-    interface aidl vendor.samsung.hardware.security.skpm.ISehSkpm/default
     class hal
     user system
     group system
