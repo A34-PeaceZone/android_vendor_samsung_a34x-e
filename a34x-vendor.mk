@@ -5,11 +5,12 @@
 PRODUCT_SOONG_NAMESPACES += \
     vendor/samsung/a34x
 
-ODM_MANIFEST_FILES := \
-    vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_dsds.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_dsds.xml \
-    vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_qsqs.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_qsqs.xml \
-    vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_ss.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_ss.xml \
-    vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_tsts.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_tsts.xml
+ODM_MANIFEST_SKUS := dsds qsqs ss tsts
+
+ODM_MANIFEST_DSDS_FILES := vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_dsds.xml
+ODM_MANIFEST_QSQS_FILES := vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_qsqs.xml
+ODM_MANIFEST_SS_FILES := vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_ss.xml
+ODM_MANIFEST_TSTS_FILES := vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_tsts.xml
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/etc/audio_effects.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects.conf \
