@@ -270,15 +270,6 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "memtrack-mediatek",
-	owner: "samsung",
-	src: "proprietary/vendor/etc/vintf/manifest/memtrack-mediatek.xml",
-	filename_from_src: true,
-	sub_dir: "vintf/manifest",
-	soc_specific: true,
-}
-
-prebuilt_etc_xml {
 	name: "mtkpower_applist-mtk-default",
 	owner: "samsung",
 	src: "proprietary/vendor/etc/vintf/manifest/mtkpower_applist-mtk-default.xml",
