@@ -67,9 +67,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/system_ext/lib64/vendor.mediatek.hardware.mms@1.2.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.mms@1.2.so \
     vendor/samsung/a34x/proprietary/system_ext/lib64/vendor.mediatek.hardware.mms@1.3.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.mms@1.3.so \
     vendor/samsung/a34x/proprietary/system_ext/lib64/vendor.mediatek.hardware.mtkpower-V2-ndk.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.mtkpower-V2-ndk.so \
-    vendor/samsung/a34x/proprietary/system_ext/lib64/vendor.mediatek.hardware.mtkpower@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.mtkpower@1.0.so \
-    vendor/samsung/a34x/proprietary/system_ext/lib64/vendor.mediatek.hardware.mtkpower@1.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.mtkpower@1.1.so \
-    vendor/samsung/a34x/proprietary/system_ext/lib64/vendor.mediatek.hardware.mtkpower@1.2.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.mtkpower@1.2.so \
     vendor/samsung/a34x/proprietary/system_ext/lib64/vendor.mediatek.hardware.mtkradioex@3.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.mtkradioex@3.0.so \
     vendor/samsung/a34x/proprietary/system_ext/lib64/vendor.mediatek.hardware.pq@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.pq@2.0.so \
     vendor/samsung/a34x/proprietary/system_ext/lib64/vendor.mediatek.hardware.pq@2.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.pq@2.1.so \
