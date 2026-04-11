@@ -489,7 +489,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/etc/init/lights-sec.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/lights-sec.rc \
     vendor/samsung/a34x/proprietary/vendor/etc/init/loghidlvendorservice.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/loghidlvendorservice.rc \
     vendor/samsung/a34x/proprietary/vendor/etc/init/md_monitor.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/md_monitor.rc \
-    vendor/samsung/a34x/proprietary/vendor/etc/init/memtrack-mediatek.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/memtrack-mediatek.rc \
     vendor/samsung/a34x/proprietary/vendor/etc/init/mtk_pkm_service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/mtk_pkm_service.rc \
     vendor/samsung/a34x/proprietary/vendor/etc/init/mtklog.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/mtklog.rc \
     vendor/samsung/a34x/proprietary/vendor/etc/init/mtkpower_applist-mtk-default.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/mtkpower_applist-mtk-default.rc \
