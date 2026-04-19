@@ -5,13 +5,6 @@
 PRODUCT_SOONG_NAMESPACES += \
     vendor/samsung/a34x
 
-ODM_MANIFEST_SKUS := dsds qsqs ss tsts
-
-ODM_MANIFEST_DSDS_FILES := vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_dsds.xml
-ODM_MANIFEST_QSQS_FILES := vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_qsqs.xml
-ODM_MANIFEST_SS_FILES := vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_ss.xml
-ODM_MANIFEST_TSTS_FILES := vendor/samsung/a34x/proprietary/odm/etc/vintf/manifest_tsts.xml
-
 PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/etc/audio_effects.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects.conf \
     vendor/samsung/a34x/proprietary/etc/audio_effects_common.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects_common.conf \
@@ -116,7 +109,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.media.c2@1.2-mediatek-64b:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.media.c2@1.2-mediatek-64b \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.neuralnetworks-shim-service-mtk-legacy:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.neuralnetworks-shim-service-mtk-legacy \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/android.hardware.usb-aidl-service.mediatekv1.0:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.usb-aidl-service.mediatekv1.0 \
-    vendor/samsung/a34x/proprietary/vendor/bin/hw/hostapd:$(TARGET_COPY_OUT_VENDOR)/bin/hw/hostapd \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/macloader:$(TARGET_COPY_OUT_VENDOR)/bin/hw/macloader \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/mfgloader:$(TARGET_COPY_OUT_VENDOR)/bin/hw/mfgloader \
     vendor/samsung/a34x/proprietary/vendor/bin/hw/samsung.software.media.c2@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/samsung.software.media.c2@1.0-service \
