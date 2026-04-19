@@ -1447,9 +1447,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib/vendor.mediatek.hardware.mmagent-V1-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.mmagent-V1-ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib/vendor.mediatek.hardware.mms-V1-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.mms-V1-ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib/vendor.mediatek.hardware.mtkpower-V2-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.mtkpower-V2-ndk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/vendor.mediatek.hardware.mtkpower@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.mtkpower@1.0.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/vendor.mediatek.hardware.mtkpower@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.mtkpower@1.1.so \
-    vendor/samsung/a34x/proprietary/vendor/lib/vendor.mediatek.hardware.mtkpower@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.mtkpower@1.2.so \
     vendor/samsung/a34x/proprietary/vendor/lib/vendor.mediatek.hardware.mtkpower_applist-V2-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.mtkpower_applist-V2-ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib/vendor.mediatek.hardware.netdagent-V1-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.netdagent-V1-ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib/vendor.mediatek.hardware.netdagent@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.netdagent@1.0.so \
@@ -2414,9 +2411,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/vendor.mediatek.hardware.mms-V1-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.mms-V1-ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/vendor.mediatek.hardware.mtkpower-V1-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.mtkpower-V1-ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/vendor.mediatek.hardware.mtkpower-V2-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.mtkpower-V2-ndk.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/vendor.mediatek.hardware.mtkpower@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.mtkpower@1.0.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/vendor.mediatek.hardware.mtkpower@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.mtkpower@1.1.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/vendor.mediatek.hardware.mtkpower@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.mtkpower@1.2.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/vendor.mediatek.hardware.mtkpower_applist-V2-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.mtkpower_applist-V2-ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/vendor.mediatek.hardware.netdagent-V1-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.netdagent-V1-ndk.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/vendor.mediatek.hardware.netdagent@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.netdagent@1.0.so \
