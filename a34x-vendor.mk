@@ -2096,7 +2096,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a34x/proprietary/vendor/lib64/libmml.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmml.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libmmlpqImpl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmlpqImpl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libmmprofile.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmprofile.so \
-    vendor/samsung/a34x/proprietary/vendor/lib64/libmnl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmnl.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libmnp_wrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmnp_wrapper.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libmnrt_wrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmnrt_wrapper.so \
     vendor/samsung/a34x/proprietary/vendor/lib64/libmp4enc_sa.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmp4enc_sa.ca7.so \
